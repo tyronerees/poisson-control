@@ -1,6 +1,6 @@
 # poisson-control
 
-Codes were used to generate the examples in Rees, Dollar and Wathen, 
+The codes here were used to generate the examples in Rees, Dollar and Wathen, 
 [Optimal solvers for PDE-Constrained Optimization](http://epubs.siam.org/doi/abs/10.1137/080727154),
 SIAM J. Sci. Comput., Vol. 32, pp. 271-298, 2010, and my 
 [DPhil thesis](http://www.numerical.rl.ac.uk/people/rees/pdf/TRThesis.pdf) (Oxford, 2010).
